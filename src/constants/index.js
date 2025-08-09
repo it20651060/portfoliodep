@@ -14,22 +14,22 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/HotelBooking.png",
+    image: "./assets/projects/HotelBooking.png",
     tags: [
       {
         id: 1,
         name: "Next.js",
-        path: "/assets/logos/nextjs.svg",
+        path: "./assets/logos/nextjs.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/assets/logos/expressjs.svg",
+        path: "./assets/logos/expressjs.svg",
       },
       {
         id: 3,
         name: "MongoDB",
-        path: "/assets/logos/mongodb.svg",
+        path: "./assets/logos/mongodb.svg",
       },
       {
         id: 4,
@@ -39,27 +39,27 @@ export const myProjects = [
       {
         id: 5,
         name: "React",
-        path: "/assets/logos/react.svg",
+        path: "./assets/logos/react.svg",
       },
       {
         id: 6,
         name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        path: "./assets/logos/tailwindcss.svg",
       },
       {
         id: 7,
         name: "JWT",
-        path: "/assets/logos/jwt.svg",
+        path: "./assets/logos/jwt.svg",
       },
       {
         id: 8,
         name: "REST API",
-        path: "/assets/logos/restapi.svg",
+        path: "./assets/logos/restapi.svg",
       },
       {
         id: 9,
         name: "Node.js",
-        path: "/assets/logos/nodejs.svg",
+        path: "./assets/logos/nodejs.svg",
       },
     ],
   },
@@ -82,42 +82,42 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/prescriptionreader.png",
+    image: "./assets/projects/prescriptionreader.png",
     tags: [
       {
         id: 1,
         name: "ReactNative",
-        path: "/assets/logos/reactnative.svg",
+        path: "./assets/logos/reactnative.svg",
       },
       {
         id: 2,
         name: "Flask",
-        path: "/assets/logos/flask.svg",
+        path: "./assets/logos/flask.svg",
       },
       {
         id: 3,
         name: "Python",
-        path: "/assets/logos/python.svg",
+        path: "./assets/logos/python.svg",
       },
       {
         id: 4,
         name: "OpenCV",
-        path: "/assets/logos/opencv.svg",
+        path: "./assets/logos/opencv.svg",
       },
       {
         id: 5,
         name: "Gemini API",
-        path: "/assets/logos/googlegemini.svg",
+        path: "./assets/logos/googlegemini.svg",
       },
       {
         id: 6,
         name: "OCR",
-        path: "/assets/logos/ocr.png",
+        path: "./assets/logos/ocr.png",
       },
       {
         id: 7,
         name: "REST API",
-        path: "/assets/logos/restapi.svg",
+        path: "./assets/logos/restapi.svg",
       },
     ],
   },
@@ -137,32 +137,32 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/QWA_logical.png",
+    image: "./assets/projects/QWA_logical.png",
     tags: [
       {
         id: 1,
         name: "Node.JS",
-        path: "/assets/logos/nodejs.svg",
+        path: "./assets/logos/nodejs.svg",
       },
       {
         id: 2,
         name: "Express",
-        path: "/assets/logos/expressjs.svg",
+        path: "./assets/logos/expressjs.svg",
       },
       {
         id: 3,
         name: "PostgreSQL",
-        path: "/assets/logos/postgresql.svg",
+        path: "./assets/logos/postgresql.svg",
       },
       {
         id: 4,
         name: "JWT",
-        path: "/assets/logos/jwt.svg",
+        path: "./assets/logos/jwt.svg",
       },
       {
         id: 5,
         name: "AWS S3",
-        path: "/assets/logos/awss3.svg",
+        path: "./assets/logos/awss3.svg",
       },
       {
         id: 6,
@@ -172,12 +172,12 @@ export const myProjects = [
       {
         id: 7,
         name: "Modular Backend Architecture",
-        path: "/assets/logos/backenddev.png",
+        path: "./assets/logos/backenddev.png",
       },
       {
         id: 8,
         name: "Postman",
-        path: "/assets/logos/postman.png",
+        path: "./assets/logos/postman.png",
       },
     ],
   },
@@ -198,22 +198,22 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/soc.png",
+    image: "./assets/projects/soc.png",
     tags: [
       {
         id: 1,
         name: ".NET Core",
-        path: "/assets/logos/netcore.svg",
+        path: "./assets/logos/netcore.svg",
       },
       {
         id: 2,
         name: "C#",
-        path: "/assets/logos/csharp.svg",
+        path: "./assets/logos/csharp.svg",
       },
       {
         id: 3,
         name: "ASP.NET Web API",
-        path: "/assets/logos/webapi.png",
+        path: "./assets/logos/webapi.png",
       },
       {
         id: 4,
@@ -223,7 +223,7 @@ export const myProjects = [
       {
         id: 5,
         name: "SQL Server",
-        path: "/assets/logos/sqlserver.png",
+        path: "./assets/logos/sqlserver.png",
       },
       {
         id: 6,
@@ -260,27 +260,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/luxevista.png",
+    image: "./assets/projects/luxevista.png",
     tags: [
       {
         id: 1,
         name: "Android",
-        path: "/assets/logos/android.svg",
+        path: "./assets/logos/android.svg",
       },
       {
         id: 2,
         name: "Java",
-        path: "/assets/logos/java.svg",
+        path: "./assets/logos/java.svg",
       },
       {
         id: 3,
         name: "Firebase Firestore",
-        path: "/assets/logos/firebase.svg",
+        path: "./assets/logos/firebase.svg",
       },
       {
         id: 4,
         name: "FirebaseAuth",
-        path: "/assets/logos/firebase.svg",
+        path: "./assets/logos/firebase.svg",
       },
       {
         id: 5,
@@ -300,17 +300,17 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "https://wa.me/+98771307505",
-    icon: "/assets/socials/whatsApp.svg",
+    icon: "./assets/socials/whatsApp.svg",
   },
   {
     name: "Linkedin",
     href: "www.linkedin.com/in/tmsirikumara",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: "./assets/socials/linkedIn.svg",
   },
   {
     name: "Github",
     href: "https://github.com/it20651060",
-    icon: "/assets/socials/github.svg",
+    icon: "./assets/socials/github.svg",
   },
 ];
 
