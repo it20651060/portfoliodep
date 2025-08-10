@@ -299,7 +299,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "https://wa.me/+98771307505",
+    href: "https://wa.me/+94771307505",
     icon: "./assets/socials/whatsApp.svg",
   },
   {
@@ -317,7 +317,7 @@ export const mySocials = [
 export const experiences = [
   {
     title: "Internship Software Engineer",
-    job: "RedDotCode Software Soluions",
+    job: "RedDotCode Software Solutions",
     date: "2023-2024",
     contents: [
       "Actively involved in the client meetings and discussions and documented and breakdown client requirements.",
@@ -333,7 +333,7 @@ export const experiences = [
     job: "Self-Employed",
     date: "2025-Present",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
+      "Designed and developed various web, mobile and desktop applications for clients.",
       "Continuously enhancing technical skills and expanding expertise in modern web development, back-end technologies and AI technologies",
     ],
   },
